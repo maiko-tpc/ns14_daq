@@ -1,0 +1,1 @@
+cmd_/home/quser/daq/exp/newSUBARU14/drv141208/babildrv.ko.unsigned := ld -r -m elf_i386 -T /usr/src/kernels/2.6.32-504.16.2.el6.i686/scripts/module-common.lds --build-id -o /home/quser/daq/exp/newSUBARU14/drv141208/babildrv.ko.unsigned /home/quser/daq/exp/newSUBARU14/drv141208/babildrv.o /home/quser/daq/exp/newSUBARU14/drv141208/babildrv.mod.o 

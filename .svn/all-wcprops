@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv
+END
+bb-k2915.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/bb-k2915.h
+END
+startup.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/startup.c
+END
+babilio.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/babilio.h
+END
+madc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/madc32.c
+END
+nbbqctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/nbbqctrl.h
+END
+def-k2915.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/def-k2915.h
+END
+bb-vme.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/bb-vme.h
+END
+def-sbs620.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/def-sbs620.h
+END
+def-vmemm.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/def-vmemm.h
+END
+babildrv.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/babildrv.c
+END
+stop.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/stop.c
+END
+def-v2718.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/def-v2718.h
+END
+babildrv.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/babildrv.h
+END
+bb-camac.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/bb-camac.h
+END
+rpv130.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/rpv130.c
+END
+babirldrvdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/babirldrvdef.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/Makefile
+END
+def-advme.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/def-advme.h
+END
+evt.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/evt.c
+END
+babirldrvcaen.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/babirldrvcaen.c
+END
+rpv130.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/rpv130.h
+END
+babilctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/babilctrl.h
+END
+babirldrvcaen.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/babirldrvcaen.h
+END
+def-cc77.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/def-cc77.h
+END
+sca.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/sca.c
+END
+bbdaq.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/bbdaq.c
+END
+Module.symvers
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/Module.symvers
+END
+babirldrvridf.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/babirldrvridf.c
+END
+nbbqio.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/nbbqio.h
+END
+Makefile.24
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/Makefile.24
+END
+bbmodules.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/bbmodules.h
+END
+Makefile.26
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/Makefile.26
+END
+clear.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/clear.c
+END
+bb-cc77.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/bb-cc77.h
+END
+usemodules.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/usemodules.h
+END
+babirldrvcamac.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/babirldrvcamac.c
+END
+segidlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/segidlist.h
+END
+def-ccnet.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/daq/!svn/ver/313/babirl/branches/babirl_minos130730/babidrv/def-ccnet.h
+END
